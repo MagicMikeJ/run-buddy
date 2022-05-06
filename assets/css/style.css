@@ -170,6 +170,16 @@ body {
     border-color: #39a6b2;
   }
 
+  /* remove this entire CSS rule */
+  .intro h2 {
+
+}
+
+  /* and this one */
+.steps h2 {
+
+}
+
   .steps {
       text-align: center;
       background: #fce138;
@@ -202,4 +212,8 @@ body {
   .steps p {
       color: #39a6b2;
       font-size: 23px;
+  }
+
+  .steps span {
+    font-size: 38px;
   }
