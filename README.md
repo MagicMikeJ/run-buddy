@@ -15,4 +15,4 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 
-Made with ❤️ by [your name]
+Made with ❤️ by MagicMikeJ
